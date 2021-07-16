@@ -2,3 +2,4 @@
 hello!my-branch!master-merge!
 hello!my-branch!merge-branch!
 hello!no
+hello!pull
